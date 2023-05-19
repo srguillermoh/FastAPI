@@ -1,2 +1,2 @@
 # FastAPI
-Curso de fasta api youtube
+Curso de fast api youtube
